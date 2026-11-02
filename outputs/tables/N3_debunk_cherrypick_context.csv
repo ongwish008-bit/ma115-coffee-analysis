@@ -1,0 +1,10 @@
+"label","quantity","value"
+"N3_debunk","band pairs available (both bands n >= 30, lower vs higher)",45
+"N3_debunk","difference reported by N3",2.42883361921098
+"N3_debunk","mean difference across all available pairs",1.01094915736649
+"N3_debunk","median difference across all available pairs",0.746650987495627
+"N3_debunk","smallest difference across all available pairs",-0.690874999999991
+"N3_debunk","largest difference across all available pairs",3.6899338235294
+"N3_debunk","percentile rank of the N3 pair among all pairs",84.4444444444444
+"N3_debunk","pairs where the HIGHER band scored WORSE",9
+"N3_debunk","percent of pairs where the HIGHER band scored WORSE",20

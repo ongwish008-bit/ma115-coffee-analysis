@@ -1,0 +1,8 @@
+"label","quantity","value"
+"R1_debunk","R-squared, altitude explained by country of origin",0.414402028816931
+"R1_debunk","R-squared, score explained by country of origin",0.241915943614234
+"R1_debunk","R-squared, score explained by altitude alone",0.042064155460621
+"R1_debunk","countries in the analytical sample",35
+"R1_debunk","randomised assignment of altitude",0
+"R1_debunk","coffees per country, smallest",1
+"R1_debunk","coffees per country, largest",231

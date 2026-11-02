@@ -1,0 +1,3 @@
+"altitude_group","definition","n"
+"Low","altitude_mean_meters < 1500",669
+"High","altitude_mean_meters >= 1500",386

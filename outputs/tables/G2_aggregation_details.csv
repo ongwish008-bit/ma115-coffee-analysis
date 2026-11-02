@@ -1,0 +1,14 @@
+"label","item","value"
+"G2","band width (m)",200
+"G2","minimum band size required to plot",10
+"G2","bands defined",17
+"G2","bands containing data",14
+"G2","bands plotted",10
+"G2","observations behind the plotted bands",1042
+"G2","observations in the analytical sample",1055
+"G2","R-squared from the plotted band means",0.414743543333149
+"G2","R-squared from all non-empty band means",0.0278317680609462
+"G2","R-squared from the individual observations",0.042064155460621
+"G2","R-squared inflation factor (plotted bands vs individuals)",9.85978533959673
+"G2","smallest plotted band sample size",19
+"G2","largest plotted band sample size",225

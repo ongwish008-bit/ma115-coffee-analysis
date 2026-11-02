@@ -1,0 +1,8 @@
+"label","quantity","value"
+"G2_debunk","observations plotted, honest version",1055
+"G2_debunk","points plotted, misleading version",10
+"G2_debunk","R-squared, individual observations",0.042064155460621
+"G2_debunk","R-squared, aggregated band means",0.414743543333149
+"G2_debunk","R-squared inflation from aggregation",9.85978533959673
+"G2_debunk","residual SD of individual scores (points)",2.6074804447603
+"G2_debunk","total spread of individual scores (points)",30.75

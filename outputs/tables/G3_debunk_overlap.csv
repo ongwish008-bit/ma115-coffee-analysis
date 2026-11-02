@@ -1,0 +1,5 @@
+"label","quantity","value"
+"G3_debunk","shared score range (points)",16.92
+"G3_debunk","percent of LOW scores inside the HIGH range",98.8041853512706
+"G3_debunk","percent of HIGH scores inside the LOW range",97.6683937823834
+"G3_debunk","histogram overlap coefficient (shared density area)",0.776357876964304

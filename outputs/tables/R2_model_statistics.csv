@@ -1,0 +1,10 @@
+"label","quantity","value"
+"R2","altitude_km coefficient",1.51258193417058
+"R2","p-value for altitude_km",4.25286014178892e-13
+"R2","R-squared",0.0903718109758221
+"R2","adjusted R-squared",0.0847625929551181
+"R2","residual standard error",2.53891813872409
+"R2","sample size n",980
+"R2","predictors in the model (excluding intercept)",6
+"R2","complete cases available",980
+"R2","rows dropped for missing data",75

@@ -1,0 +1,9 @@
+"label","measure","value"
+"N2_debunk","relative risk ratio (High / Low)",3.20955670696603
+"N2_debunk","relative increase (percent)",220.955670696603
+"N2_debunk","absolute difference (percentage points)",8.91749343618578
+"N2_debunk","number needed to switch for one extra high-quality coffee",11.2139134966128
+"N2_debunk","percent of HIGH-altitude coffees that are NOT high quality",87.0466321243523
+"N2_debunk","95% CI lower bound, difference in proportions (pp)",5.04644936622125
+"N2_debunk","95% CI upper bound, difference in proportions (pp)",12.7885375061503
+"N2_debunk","chi-squared p-value for the difference in proportions",1.59889130977623e-07

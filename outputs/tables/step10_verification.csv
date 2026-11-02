@@ -1,0 +1,15 @@
+"check","requirement","measured","passed"
+1,"At least 300 observations remain","1055 observations",TRUE
+2,"At least 2 categorical and 3 numerical variables available","2 categorical, 3 numerical",TRUE
+3,"Three Part 1 numerical summaries generated (N1-N3)","3 of 3 present",TRUE
+4,"Three Part 1 misleading graphs generated using base R (G1-G3)","3 of 3 PNG files written",TRUE
+5,"Graphs include at least two different types","3 distinct types: bar chart, scatterplot, histogram",TRUE
+6,"One simple regression fitted (R1)","R1 fitted, n = 1055",TRUE
+7,"One multiple regression fitted (R2)","R2 fitted, n = 980, 7 coefficients",TRUE
+8,"Each misleading result has a matching honest correction","8 of 8 Part 2 corrections present",TRUE
+9,"At least 5 distinct techniques, none used more than twice","8 distinct techniques, max uses = 1",TRUE
+10,"Every regression reports its fitted equation","3 of 3 equations reported",TRUE
+11,"All graphs and numerical values computed from the actual dataset","source file arabica_data_cleaned.csv read by every script",TRUE
+12,"All exclusions and transformations documented","4 exclusion tables and 4 derived variables documented",TRUE
+13,"Every numerical result regenerable from R","8 value files written to outputs/values",TRUE
+14,"No errors occur when running the full analysis","run_all.R completed without error",TRUE

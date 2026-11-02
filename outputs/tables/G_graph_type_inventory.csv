@@ -1,0 +1,4 @@
+"label","graph_type","base_r_function","technique","file"
+"G1","bar chart","barplot()","truncated axis","G1_misleading_truncated_barchart.png"
+"G2","scatterplot","plot() + abline()","aggregation hiding individual variation","G2_misleading_aggregated_scatter.png"
+"G3","histogram","hist()","misleading histogram bin selection","G3_misleading_histograms.png"

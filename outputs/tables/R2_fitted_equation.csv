@@ -1,0 +1,2 @@
+"label","fitted_equation"
+"R2","predicted Total.Cup.Points = 81.6754 + 1.5126 * altitude_km - 8.1479 * Moisture - 1.4054 * Processing.MethodOther + 0.2991 * Processing.MethodPulped natural / honey + 0.0723 * Processing.MethodSemi-washed / Semi-pulped - 0.9904 * Processing.MethodWashed / Wet"

@@ -1,0 +1,9 @@
+"check","n_rows"
+"altitude_mean_meters missing",227
+"altitude_mean_meters < 100 m (implausibly low / unit error)",18
+"altitude_mean_meters > 3500 m (above the arabica growing limit)",10
+"Total.Cup.Points missing",0
+"Total.Cup.Points <= 0 (unscored sample)",1
+"Moisture == 0 (not physically possible; left in sample, see notes)",252
+"Processing.Method blank",152
+"Country.of.Origin blank",1

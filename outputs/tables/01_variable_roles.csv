@@ -1,0 +1,6 @@
+"variable","type","role"
+"altitude_mean_meters","numerical","explanatory (altitude)"
+"Total.Cup.Points","numerical","response (quality score)"
+"Moisture","numerical","explanatory control"
+"Processing.Method","categorical","explanatory control"
+"Country.of.Origin","categorical","explanatory control / confounder"

@@ -1,0 +1,7 @@
+"step","rows_removed_at_this_step","rows_remaining"
+"source dataset",0,1311
+"drop altitude_mean_meters missing",227,1084
+"drop altitude_mean_meters < 100",18,1066
+"drop altitude_mean_meters > 3500",10,1056
+"drop Total.Cup.Points missing",0,1056
+"drop Total.Cup.Points <= 0",1,1055

@@ -1,0 +1,9 @@
+"label","quantity","value"
+"R1_debunk","R-squared",0.042064155460621
+"R1_debunk","percent of variation in score EXPLAINED by altitude",4.2064155460621
+"R1_debunk","percent of variation in score LEFT UNEXPLAINED",95.7935844539379
+"R1_debunk","residual standard error (cup points)",2.6074804447603
+"R1_debunk","standard deviation of Total.Cup.Points (cup points)",2.66285015354286
+"R1_debunk","reduction in prediction error from knowing altitude (points)",0.055369708782556
+"R1_debunk","p-value for the altitude slope",1.75136829931428e-11
+"R1_debunk","sample size n",1055

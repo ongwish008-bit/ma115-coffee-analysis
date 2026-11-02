@@ -1,0 +1,4 @@
+"label","model","n","intercept","altitude_coefficient","r_squared","altitude_p_value","pct_change_in_coefficient"
+"R1_debunk","R1 on all observations",1055,80.4010505366808,1.35201029093615,0.042064155460621,1.75136829931428e-11,0
+"R1_debunk","R1 excluding 51 points with Cook's D > 4/n",1004,80.6375389485218,1.29745892208779,0.0651681056619965,2.11775767337194e-16,-4.0348338480912
+"R1_debunk","R1 excluding only the single lowest-scoring coffee",1054,80.4078762551037,1.36288574705488,0.0458137088070954,2.1836604271598e-12,0.80439151917983

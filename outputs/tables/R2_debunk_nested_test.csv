@@ -1,0 +1,8 @@
+"label","quantity","value"
+"R2_debunk","additional parameters for country of origin",32
+"R2_debunk","F statistic for adding country",6.0785468802222
+"R2_debunk","p-value for adding country",1.84242064706975e-22
+"R2_debunk","increase in R-squared",0.15581933889093
+"R2_debunk","increase in adjusted R-squared",0.130987816948761
+"R2_debunk","change in the altitude coefficient",-0.824282942791805
+"R2_debunk","percent change in the altitude coefficient",-54.4950937314875

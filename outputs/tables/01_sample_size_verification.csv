@@ -1,0 +1,6 @@
+"quantity","value"
+"source dataset rows",1311
+"rows excluded (unique)",256
+"analytical sample rows (computed)",1055
+"analytical sample rows (documented expectation)",1055
+"computed matches expectation",1

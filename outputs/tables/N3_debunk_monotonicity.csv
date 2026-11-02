@@ -1,0 +1,8 @@
+"label","quantity","value"
+"N3_debunk","200 m bands defined",17
+"N3_debunk","200 m bands containing data",14
+"N3_debunk","200 m bands with fewer than 10 coffees",4
+"N3_debunk","highest-scoring 200 m band (midpoint, m)",2000
+"N3_debunk","mean of the highest-scoring 200 m band",85.3137931034483
+"N3_debunk","mean of the highest altitude band containing data",76.17
+"N3_debunk","Spearman correlation, band midpoint vs band mean",0.336263736263736

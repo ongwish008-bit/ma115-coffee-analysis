@@ -1,0 +1,11 @@
+"label","diagnostic","value"
+"R1_debunk","mean of residuals",-6.16101430010144e-16
+"R1_debunk","residual standard deviation",2.60624320604544
+"R1_debunk","smallest residual",-22.4872817622303
+"R1_debunk","largest residual",7.3735281096284
+"R1_debunk","residual skewness",-2.17590242406779
+"R1_debunk","Shapiro-Wilk W for normality of residuals",0.85394461422668
+"R1_debunk","Shapiro-Wilk p-value",3.86389307929029e-30
+"R1_debunk","correlation of |residuals| with fitted values",-0.0229804923692711
+"R1_debunk","Breusch-Pagan statistic (non-constant variance)",0.113606038057354
+"R1_debunk","Breusch-Pagan p-value",0.736075478419771

@@ -1,0 +1,6 @@
+"reason","rule","n_rows_failing","pct_of_source"
+"alt_missing","altitude_mean_meters is NA",227,17.32
+"alt_below_100","altitude_mean_meters < 100",18,1.37
+"alt_above_3500","altitude_mean_meters > 3500",10,0.76
+"tcp_missing","Total.Cup.Points is NA",0,0
+"tcp_not_positive","Total.Cup.Points <= 0",1,0.08

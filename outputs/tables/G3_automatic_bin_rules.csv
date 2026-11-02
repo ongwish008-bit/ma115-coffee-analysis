@@ -1,0 +1,4 @@
+"label","rule","suggested_n_bins","implied_bin_width_points"
+"G3","Sturges",12,2.5625
+"G3","Freedman-Diaconis",65,0.473076923076923
+"G3","Scott",34,0.904411764705882

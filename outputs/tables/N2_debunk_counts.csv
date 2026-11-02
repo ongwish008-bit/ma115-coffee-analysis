@@ -1,0 +1,3 @@
+"label","altitude_group","n_high_quality","n_not_high_quality","n_total","pct_high_quality","pct_not_high_quality"
+"N2_debunk","Low (< 1500 m)",27,642,669,4.03587443946188,95.9641255605381
+"N2_debunk","High (>= 1500 m)",50,336,386,12.9533678756477,87.0466321243523

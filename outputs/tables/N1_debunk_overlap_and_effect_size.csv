@@ -1,0 +1,11 @@
+"label","quantity","value"
+"N1_debunk","difference in means (High - Low)",1.44785520109669
+"N1_debunk","pooled standard deviation",2.57103481675543
+"N1_debunk","difference as a fraction of 1 pooled SD (Cohen's d)",0.563141032420493
+"N1_debunk","difference as a percent of the observed score range",4.70847219868841
+"N1_debunk","percent of LOW-altitude coffees scoring above the HIGH mean",28.4005979073244
+"N1_debunk","percent of HIGH-altitude coffees scoring below the LOW mean",18.9119170984456
+"N1_debunk","Welch 95% CI lower bound for the difference",1.1482376047806
+"N1_debunk","Welch 95% CI upper bound for the difference",1.74747279741278
+"N1_debunk","Welch t-statistic",9.48293278096058
+"N1_debunk","Welch p-value",1.80632166572574e-20

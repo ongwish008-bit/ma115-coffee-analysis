@@ -1,0 +1,9 @@
+"label","kind","technique","part1_script","part2_script","times_used"
+"N1","calculation","Reporting means without measures of spread","02_part1_numerical.R","05_part2_numerical.R",1
+"N2","calculation","Relative differences instead of absolute differences","02_part1_numerical.R","05_part2_numerical.R",1
+"N3","calculation","Cherry-picking subgroups","02_part1_numerical.R","05_part2_numerical.R",1
+"G1","graph","Truncated axis","03_part1_graphs.R","06_part2_graphs.R",1
+"G2","graph","Aggregation hiding individual variation","03_part1_graphs.R","06_part2_graphs.R",1
+"G3","graph","Misleading histogram bin selection","03_part1_graphs.R","06_part2_graphs.R",1
+"R1","regression","Correlation interpreted as causation","04_part1_regressions.R","07_part2_regressions.R",1
+"R2","regression","Omitted-variable bias","04_part1_regressions.R","07_part2_regressions.R",1

@@ -1,0 +1,4 @@
+"label","band","n","mean_total_cup_points"
+"N3","800 m <= altitude < 1200 m",212,81.4945754716981
+"N3","1800 m <= altitude < 2200 m",88,83.9234090909091
+"N3","difference (high band - low band)",NA,2.42883361921098

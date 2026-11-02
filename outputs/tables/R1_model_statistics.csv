@@ -1,0 +1,10 @@
+"label","quantity","value"
+"R1","intercept",80.4010505366808
+"R1","altitude_km coefficient",1.35201029093615
+"R1","R-squared",0.042064155460621
+"R1","adjusted R-squared",0.0411544348105362
+"R1","correlation coefficient r",0.205095478888789
+"R1","p-value for altitude_km",1.75136829931428e-11
+"R1","p-value for the correlation test",1.75136829931451e-11
+"R1","residual standard error",2.6074804447603
+"R1","sample size n",1055

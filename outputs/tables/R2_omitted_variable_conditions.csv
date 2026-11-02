@@ -1,0 +1,5 @@
+"label","quantity","value"
+"R2","ANOVA R-squared, altitude_km explained by Country.of.Origin",0.401408648682494
+"R2","ANOVA R-squared, Total.Cup.Points explained by Country.of.Origin",0.232182727578436
+"R2","countries represented",33
+"R2","countries with only 1 observation",7
